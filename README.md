@@ -5,3 +5,5 @@ Some random description
 world 
 # sub header
 life is ......a lot sometime.
+# stupid
+people are stupid
